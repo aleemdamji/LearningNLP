@@ -1,2 +1,2 @@
 # randomMLpractice
-Just my practicing of Intro ML stuff
+Just practicing random ML and NLP related things.
