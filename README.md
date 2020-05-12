@@ -1,4 +1,4 @@
-# randomMLpractice
-Just practicing random ML and NLP related things.
+# Learning NLP
+Here is where I document my attempts to learn NLP.
 
-Right now, just trying to follow Bird et al.'s [Natural Language Processing with Python](https://www.nltk.org/book/) book.
+Currently, I'm just trying to follow Bird et al.'s [Natural Language Processing with Python](https://www.nltk.org/book/) book.
